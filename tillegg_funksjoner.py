@@ -23,7 +23,7 @@ def meny():
     print("3. Vis laptopen til en vis bruker") # kan denne setningen forbedres?
     print("4. Oppdatere en tabell")    
     print("5. Slette data fra en tabell")
-    print("6. Slutt programmet")
+    print("6. Slutt programmet") # lang kommentar i det siste valget
     print("------------------------------")
     tall = int(input("Valget ditt er: "))
     return tall
